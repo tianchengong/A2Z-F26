@@ -89,3 +89,4 @@ This anthology, edited by Lillian-Yvonne Bertram and Nick Montfort and published
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Bairui Su -- [Box Drawing Writing](https://recho.dev/examples/box-drawing-writing)
+- Tianchen -- [Do you want to build a Snowman] (https://comfortable-drink-522.notion.site/Blog-1-3d69066e2c788026bd21f4ddbb266348?source=copy_link)
